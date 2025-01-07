@@ -1,1 +1,1 @@
-- 👋 Hi, I’m actually @carnageous
+- 👋 Hi, I’m actually [@carnageous](https://github.com/carnageous)
